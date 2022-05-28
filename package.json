@@ -12,7 +12,7 @@
 	},
 	"dependencies": {
 		"commander": "^8.3.0",
-		"fb-post-reaction": "github:nadhirxz/fb-post-reaction#v1.0.0",
+		"fb-post-reaction": "github:nadhirxz/fb-post-reaction#v1.0.3",
 		"inquirer": "^8.2.0",
 		"pkginfo": "^0.4.1"
 	}
